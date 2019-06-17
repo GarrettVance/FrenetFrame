@@ -3,4 +3,4 @@ Render space curves using Frenet-Serret Frame in DirectX D3D11. This is a Micros
 
 Wireframe toggle via F3 and F4 keyboard keys. 
 
-See source code for additional space curves to render.  
+See source code for additional space curves to render. Most of these space curves I derived from a paper by Herbert Edelsbrunner, "180 Wrapped Tubes". 
